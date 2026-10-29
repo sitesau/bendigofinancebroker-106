@@ -1,0 +1,22 @@
+{
+  "wheel_id": 494,
+  "structure": "umbrella",
+  "slug": "bendigofinancebroker-106",
+  "project": "finance-broker-bendigo-myths-bc99234681386900f19d20c0e1eae54",
+  "parent_t1_ref": "bendigofinancebroker-152",
+  "node_role": "feeder",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "finance broker bendigo myths",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/finance-broker-bendigo-myths-bc99234681386900f19d20c0e1eae54/",
+  "tier": "T2",
+  "writeback_nonce": "a5e68b3550af613b",
+  "links": [
+    {
+      "target_url": "http://finance-broker-bendigo-5779640723bb791115babb4645499c5a06be8502.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://finance-broker-bendigo-5779640723bb791115babb4645499c5a06be8502.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
